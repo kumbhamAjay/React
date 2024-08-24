@@ -1,4 +1,4 @@
-// import { Circles } from "react-loader-spinner"
+import { Circles } from "react-loader-spinner"
 // import CustomSkeleton from "react-loading-skeleton"
 import Toasts from "./Components/Toasts/Toasts"
 // import { CustomCarousel } from "./Components/Courasel/Courasel"
@@ -14,11 +14,11 @@ function App() {
   return (
     <>
       {/* <Circles/> */}
-      {/* <Toasts/> */}
+      <Toasts/>
       {/* <CustomForm/>
       <CustomCard text={"Hi I am Ajay"} title={"Ajay"}/> */}
       {/* <FakeStoredata/> */}
-      <Bulb/>
+      {/* <Bulb/> */}
       <CustomTable/>
       
       
