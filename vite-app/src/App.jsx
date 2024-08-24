@@ -17,9 +17,9 @@ function App() {
       {/* <Toasts/> */}
       {/* <CustomForm/>
       <CustomCard text={"Hi I am Ajay"} title={"Ajay"}/> */}
-      {/* <FakeStoredata/> */}
-      <Bulb/>
-      <CustomTable/>
+      <FakeStoredata/>
+      {/* <Bulb/> */}
+      {/* <CustomTable/> */}
       
       
     </>
